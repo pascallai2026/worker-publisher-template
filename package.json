@@ -27,8 +27,7 @@
 	},
 	"private": true,
 	"scripts": {
-		"deploy": "wrangler deploy",
-		"deploy:wfp": "tsx scripts/deploy-wfp.ts",
+		"deploy": "npx wrangler deploy",
 		"dev": "wrangler dev",
 		"start": "wrangler dev"
 	}
