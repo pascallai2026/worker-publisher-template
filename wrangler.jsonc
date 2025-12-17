@@ -4,13 +4,6 @@
 	"main": "./src/index.ts",
 	"compatibility_date": "2025-10-08",
 	"upload_source_maps": true,
-	"dispatch_namespaces": [
-		{
-			"binding": "DISPATCHER",
-			"namespace": "my-dispatch-namespace",
-			"remote": false
-		}
-	],
 	"observability": {
 		"enabled": true
 	},
